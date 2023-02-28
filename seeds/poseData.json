@@ -1,0 +1,55 @@
+[
+    {
+        "name": [
+            "baby-cobra-pose",
+            "Bhujangasana"
+        ],
+        "description": "Strengthen the back body and combat a sedentary lifestyle with this baby backbend",
+        "level": [
+            "beginner",
+            "intermediate",
+            "advanced"
+        ],
+        "area": [
+            "core",
+            "upper",
+            "lower",
+            "full"
+        ],
+        "type": [
+            "stretching"
+        ]
+    },
+    {
+        "name": [
+            "baby-grasshopper pose",
+            "bala-parsva-bhuja-dandasana"
+        ],
+        "description": "Play on the mat and challenge yourself to try something new with this fun and accessible arm balance pose.",
+        "level": [
+            "advanced"
+        ],
+        "area": [
+            "core",
+            "upper"
+        ],
+        "type": [
+            "stretching",
+            "strengthening",
+            "balancing"
+        ]
+    }
+]
+
+area:
+1. lower
+2. core
+3. full
+4. upper
+5. hips
+
+type:
+1. stretching
+2. strengthening
+3. balancing
+4. twisting
