@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html lang = "en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Let's Kick Asana</title>
+    {{!-- Link the stylesheet in href --}}
+    <link rel="stylesheet" href=""> 
+</head>
+
+<body>
+    <div>
+    <header>
+        <nav>
+         {{!-- Consitionally render login or logout links if logged in render user.handlebars --}}
+        {{#if logged_in}}
+             <a href="../user.handlebars"></a>
+             <button>Logout</button>
+        {{else}}
+            <a href="../login.handlebars">Login</a>
+        {{#/if}}
+        </nav>
+    </header>
+
+    <main>
+        {{{ body }}}
+    </main>
+
+    <footer>
+    </footer>
+</div>
+
+{{!-- Render the logout script option only if people are already logged in --}}
+{{#if logged_in}}
+<script src="../../public/js/logout.js"></script>
+
+</body>
+</html>
