@@ -6,9 +6,23 @@
         ],
         "description": "Strengthen the back body and combat a sedentary lifestyle with this baby backbend",
         "level": [
-            "beginner",
-            "intermediate",
-            "advanced"
+            "beginner"
+        ],
+        "area": [
+            "upper"
+        ],
+        "type": [
+            "Stretching"
+        ]
+    },
+    {
+        "name": [
+            "baby-grasshopper-pose",
+            "bala-parsva-bhuja-dandasana"
+        ],
+        "description": "Play on the mat and challenge yourself to try something new with this fun and accessible arm balance pose.",
+        "level": [
+            "Intermediate"
         ],
         "area": [
             "core",
@@ -17,28 +31,77 @@
             "full"
         ],
         "type": [
-            "stretching"
+            "Twisting",
+            "Balancing"
         ]
     },
     {
         "name": [
-            "baby-grasshopper pose",
-            "bala-parsva-bhuja-dandasana"
+            "Bharadvaja-Twist",
+            "Bharadvajasana"
         ],
-        "description": "Play on the mat and challenge yourself to try something new with this fun and accessible arm balance pose.",
+        "description": "Increase your spinal awareness and strengthen and stimulate your spine, neck, and shoulders in this seated twist",
         "level": [
-            "advanced"
+            "Beginner"
+        ],
+        "area": [
+            "core"
+        ],
+        "type": [
+            "Twisting",
+            "Seated",
+            "Digestion",
+            "Menstruation"
+        ]
+    },
+
+
+    {
+        "name": [
+            "Bird-Dog-Pose",
+            "Dandyamana-Brahmanaasana"
+        ],
+        "description": "Stabilize from the core and find balance in Bird Dog Pose",
+        "level": [
+            "Intermediate"
         ],
         "area": [
             "core",
-            "upper"
+            "upper",
+            "lower"
         ],
         "type": [
-            "stretching",
-            "strengthening",
-            "balancing"
+            "Balancing",
+            "Stretching",
+            "Strengthening"
         ]
-    }
+    },
+
+
+
+
+    {
+        "name": [
+            "Bird-Dog-Pose",
+            "Dandyamana-Brahmanaasana"
+        ],
+        "description": "Become aware of your entire body as you hone your concentration to achieve this challenging balancing posture",
+        "level": [
+            "Intermediate"
+        ],
+        "area": [
+            "core",
+            "upper",
+            "lower"
+        ],
+        "type": [
+            "Balancing",
+            "Core Activating",
+            "Seated",
+            "Digestion",
+            "Strengthening"
+        ]
+    },
 ]
 
 area:
