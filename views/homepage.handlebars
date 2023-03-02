@@ -1,8 +1,50 @@
-<div>
-    <h1>hello world</h1>
-    {{#each poses}}
-    <h1>{{name}}</h1>
-    <p>{{description}}</p>
-    <img src="{{image}}">
-    {{/each}}
+{{!-- hero section --}}
+<div class="hero">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">KICK ASANA</h1>
+      <h2 class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nihil animi facere beatae officiis repellat fuga, quae in molestiae cumque omnis voluptatum, saepe obcaecati architecto sed magni reprehenderit non nostrum excepturi adipisci quod ullam. Doloribus sunt deserunt laudantium ab illum. Voluptates totam odit quibusdam illo maiores asperiores id incidunt hic?</h2>
+    </div>
+  </div>
+
+<div class="row">
+  <div class="col-md-6">
+    <h2>Login</h2>
+
+    <form class="form login-form">
+      <div class="form-group">
+        <label for="email-login">email:</label>
+        <input class="form-input" type="text" id="email-login" />
+      </div>
+      <div class="form-group">
+        <label for="password-login">password:</label>
+        <input class="form-input" type="password" id="password-login" />
+      </div>
+      <div class="form-group">
+        <button class="btn btn-primary" type="submit">login</button>
+      </div>
+    </form>
+  </div>
+  <div class="col-md-6">
+    <h2>Signup</h2>
+
+    <form class="form signup-form">
+      <div class="form-group">
+        <label for="name-signup">name:</label>
+        <input class="form-input" type="text" id="name-signup" />
+      </div>
+      <div class="form-group">
+        <label for="email-signup">email:</label>
+        <input class="form-input" type="text" id="email-signup" />
+      </div>
+      <div class="form-group">
+        <label for="password-signup">password:</label>
+        <input class="form-input" type="password" id="password-signup" />
+      </div>
+      <div class="form-group">
+        <button class="btn btn-primary" type="submit">signup</button>
+      </div>
+    </form>
+  </div>
 </div>
+<script src="./js/login.js"></script>

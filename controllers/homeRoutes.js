@@ -28,7 +28,7 @@ const withAuth = require('../utils/auth');
 
 // Get route for all poses with auth
 
-router.get('/', async (req, res) => {
+router.get('/gallery', async (req, res) => {
     try {
         const poseData = await Pose.findAll({
                 
@@ -37,7 +37,7 @@ router.get('/', async (req, res) => {
 
         const poses = poseData.map((pose) => pose.get({ plain: true }));
 
-        res.render('homepage', {
+        res.render('gallery', {
             poses,
             logged_in: req.session.logged_in
         });
@@ -49,28 +49,15 @@ router.get('/', async (req, res) => {
 );
 
 
-
-// get route to render homepage with no data
-// router.get('/', async (req, res) => {
-//     try {
-//         res.render('homepage', {
-//             logged_in: req.session.logged_in
-//         });
-//     } catch (err) {
-//         res.status(500).json(err);
-//     }
-// });
-
-
-// // GET login
-router.get('/login', (req, res) => {
+// // GET Homepage
+router.get('/', (req, res) => {
     // If the user is already logged in, redirect the request to another route
     if (req.session.logged_in) {
-        res.redirect('/');
+        res.redirect('/dashboard');
         return;
     }
 
-    res.render('login');
+    res.render('homepage');
 });
 
 
