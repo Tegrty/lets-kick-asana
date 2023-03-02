@@ -151,7 +151,7 @@
   },
   {
     "name": ["Child-Pose", "Balasana"],
-    "description": "Come back to yourself and rest in the loving cocoon that is Child’s Pose.",
+    "description": "Come back to yourself and rest in the loving cocoon that is Child's Pose.",
     "level": ["Beginner"],
     "area": ["lower", "upper"],
     "type": ["Stretching", "Menstruation"]
@@ -214,12 +214,5 @@
     "level": ["Beginner"],
     "area": ["upper"],
     "type": ["Stretching"]
-  },
-  {
-    "name": ["", ""],
-    "description": "",
-    "level": [""],
-    "area": [""],
-    "type": [""]
   }
 ]
