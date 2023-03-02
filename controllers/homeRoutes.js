@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const { Pose } = require('../../models');
-const withAuth = require('../../utils/auth');
+const withAuth = require('../utils/auth');
 
 // Get route for individual pose WITH auth
 router.get('/:id', withAuth, async (req, res) => {
@@ -9,7 +9,7 @@ router.get('/:id', withAuth, async (req, res) => {
             include: [
                 {
                     model: Pose,
-                    attributes: ['id', 'name', 'description'], // attributes is referencing the column name ** THIS IS WHERE IMAGES CAN BE ADDED
+                    attributes: ['name', 'description'], // attributes is referencing the column name ** THIS IS WHERE IMAGES CAN BE ADDED
                 },
             ],
         });
@@ -34,7 +34,7 @@ router.get('/', withAuth, async (req, res) => {
             include: [
                 {
                     model: Pose,
-                    attributes: ['id', 'name', 'description'], // attributes is referencing the column name ** THIS IS WHERE IMAGES CAN BE ADDED
+                    attributes: ['name', 'description'], // attributes is referencing the column name ** THIS IS WHERE IMAGES CAN BE ADDED
                 },
             ],
         });
