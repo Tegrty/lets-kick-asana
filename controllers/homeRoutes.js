@@ -32,7 +32,7 @@ router.get('/', async (req, res) => {
     try {
         const poseData = await Pose.findAll({
                 
-                    attributes: ['name', 'description'], // attributes is referencing the column name ** THIS IS WHERE IMAGES CAN BE ADDED
+                    attributes: ['name', 'description', 'image'], // attributes is referencing the column name ** THIS IS WHERE IMAGES CAN BE ADDED
         });
 
         const poses = poseData.map((pose) => pose.get({ plain: true }));
