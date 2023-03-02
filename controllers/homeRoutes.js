@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { Pose } = require('../../models');
+const { Pose } = require('../models');
 const withAuth = require('../utils/auth');
 
 // Get route for individual pose WITH auth
@@ -50,3 +50,5 @@ router.get('/', withAuth, async (req, res) => {
     }
 }
 );
+
+module.exports = router;
