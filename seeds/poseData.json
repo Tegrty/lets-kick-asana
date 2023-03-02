@@ -13,7 +13,8 @@
         ],
         "type": [
             "Stretching"
-        ]
+        ],
+        "image":"./images/Baby-Cobra-Pose.png"
     },
     {
         "name": [
@@ -33,7 +34,8 @@
         "type": [
             "Twisting",
             "Balancing"
-        ]
+        ],
+        "image":"./images/Baby-Grasshopper-Pose.png"
     },
     {
         "name": [
@@ -52,7 +54,8 @@
             "Seated",
             "Digestion",
             "Menstruation"
-        ]
+        ],
+        "image":"./images/Bharadvaja-Twist-Pose.png"
     },
     {
         "name": [
@@ -72,7 +75,8 @@
             "Balancing",
             "Stretching",
             "Strengthening"
-        ]
+        ],
+        "image":"./images/Bird-Dog-Pose.png"
     },
     {
         "name": [
@@ -89,7 +93,8 @@
         "type": [
             "Stretching",
             "Seated"
-        ]
+        ],
+        "image":"./images/Bound-Angle-Pose.png"
     },
     {
         "name": [
@@ -107,7 +112,8 @@
         "type": [
             "Stretching",
             "Strengthening"
-        ]
+        ],
+        "image":"./images/Bow-Pose.png"
     },
     {
         "name": [
@@ -125,7 +131,8 @@
             "Strengthening",
             "Core Activating",
             "Digestion"
-        ]
+        ],
+        "image": "./images/Bridge-Pose.png"
     },
     {
         "name": [
@@ -143,7 +150,8 @@
         "type": [
             "Balancing",
             "Strengthening"
-        ]
+        ],
+        "image":"./images/Crow-Pose.png"
     },
     {
         "name": [
@@ -161,7 +169,8 @@
             "Balancing",
             "Strengthening",
             "Seated"
-        ]
+        ],
+        "image":"./images/Elephant-Trunk-Pose.png"
     },
     {
         "name": [
@@ -180,7 +189,8 @@
             "Balancing",
             "Strengthening",
             "Twisting"
-        ]
+        ],
+        "image":"./images/Fallen-Angel-Pose.png"
     },
     {
         "name": [
@@ -197,7 +207,8 @@
         "type": [
             "Twisting",
             "Balancing"
-        ]
+        ],
+        "image":"./images/Grasshopper-Pose.png"
     },
     {
         "name": [
@@ -215,7 +226,8 @@
         "type": [
             "Balancing",
             "Stretching"
-        ]
+        ],
+        "image":"./images/King-Pigeon-Pose.png"
     },
     {
         "name": [
@@ -233,7 +245,8 @@
             "Stretching",
             "Balancing",
             "Strengthening"
-        ]
+        ],
+        "image":"./images/Humble-Warrior-Pose.png"
     },
     {
         "name": [
@@ -251,7 +264,8 @@
         "type": [
             "Strengthening",
             "Balancing"
-        ]
+        ],
+        "image":"./images/Scale-Pose.png"
     },
     {
         "name": [
@@ -270,7 +284,8 @@
         "type": [
             "Balancing",
             "Strengthening"
-        ]
+        ],
+        "image":"./images/Shoulder-Pressing-Pose.png"
     },
     {
         "name": [
@@ -288,7 +303,8 @@
             "Stretching",
             "Strengthening",
             "Balancing"
-        ]
+        ],
+        "image":"./images/Standing-Splits-Pose.png"
     },
     {
         "name": [
@@ -308,7 +324,8 @@
             "Balancing",
             "Stretching",
             "Strengthening"
-        ]
+        ],
+        "image":"./images/Three-Legged-Downward-Facing-Dog-Pose.png"
     },
     {
         "name": [
@@ -327,7 +344,8 @@
             "Balancing",
             "Strengthening",
             "Core Activating"
-        ]
+        ],
+        "image":"./images/Side-Crow-Pose.png"
     },
     {
         "name": [
@@ -344,7 +362,8 @@
         "type": [
             "Balancing",
             "Stretching"
-        ]
+        ],
+        "image":"./images/Side-Reclining-Leg-Lift-Pose.png"
     },
     {
         "name": [
@@ -362,7 +381,8 @@
         "type": [
             "Stretching",
             "Menstruation"
-        ]
+        ],
+        "image":"./images/Fish-Pose.png"
     },
     {
         "name": [
@@ -381,7 +401,8 @@
         "type": [
             "Stretching",
             "Menstruation"
-        ]
+        ],
+        "image":"./images/Garland-Pose.png"
     },
     {
         "name": [
@@ -399,7 +420,8 @@
         "type": [
             "Stretching",
             "Menstruation"
-        ]
+        ],
+        "image":"./images/Child-Pose.png"
     },
     {
         "name": [
@@ -417,7 +439,8 @@
             "Balancing",
             "Strengthening",
             "Stretching"
-        ]
+        ],
+        "image":"./images/Standing-Wide-Legged-Standing-Forward-Bend-Pose.png"
     },
     {
         "name": [
@@ -433,7 +456,8 @@
         ],
         "type": [
             "Stretching"
-        ]
+        ],
+        "image":"./images/Plow-Pose.png"
     },
     {
         "name": [
@@ -451,7 +475,8 @@
         "type": [
             "Core Activating",
             "Strengthening"
-        ]
+        ],
+        "image":"./images/Locust-Pose.png"
     },
     {
         "name": [
@@ -470,11 +495,12 @@
             "Balancing",
             "Twisting",
             "Seated"
-        ]
+        ],
+        "image":"./images/Revolved-Head-To-Knee-Pose.png"
     },
     {
         "name": [
-            "Low-Lunge-Pose ",
+            "Low-Lunge-Pose",
             "Anjaneyasana"
         ],
         "description": "This hip opening pose calls for proper alignment as you improve your posture and work on your balance",
@@ -488,7 +514,8 @@
         "type": [
             "Balancing",
             "Stretching"
-        ]
+        ],
+        "image":"./images/Low-Lunge-Pose.png"
     },
     {
         "name": [
@@ -505,7 +532,8 @@
         ],
         "type": [
             "Stretching"
-        ]
+        ],
+        "image":"./images/Reclining-Hero-Pose.png"
     },
     {
         "name": [
@@ -525,7 +553,8 @@
             "Stretching",
             "Core Activating",
             "Balancing"
-        ]
+        ],
+        "image":"./images/Upward-Plank-Pose.png"
     },
     {
         "name": [
@@ -542,6 +571,7 @@
         "type": [
             "Stretching"
         ],
+        "image":"./images/Rabbit-Pose.png"
     },
     {
         "name": [
@@ -560,25 +590,3 @@
         ]
     },
 ]
-
-area:
-1. lower
-2. core
-3. full
-4. upper
-5. hips
-
-type:
-1. stretching
-2. strengthening
-3. balancing
-4. twisting
-5. digestion
-6. core activating
-7. Menstruation
-8. Seated
-
-levels:
-1. Beginner
-2. Intermidate
-3. Advanced
