@@ -11,6 +11,10 @@ const seedDatabase = async () => {
         individualHooks: true,
         returning: true,
     });
+    const poses = await Pose.bulkCreate(poseData, {
+        individualHooks: true,
+        returning: true,
+    });
 
     process.exit(0);
 }

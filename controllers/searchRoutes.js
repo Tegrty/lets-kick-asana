@@ -1,6 +1,6 @@
 const router = require('express').Router();
-const { Pose } = require('../../models');
-const withAuth = require('../../utils/auth');
+const { Pose } = require('../models');
+const withAuth = require('../utils/auth');
 
 // Get route for user's search results
 router.get('/', withAuth, async (req, res) => {
@@ -30,3 +30,6 @@ router.get('/', withAuth, async (req, res) => {
         res.status(500).json(err);
     }
 });
+
+
+module.exports = router;
