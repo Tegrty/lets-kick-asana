@@ -3,22 +3,24 @@ const { Pose } = require('../models');
 const withAuth = require('../utils/auth');
 
 // Get route for user's search results
-router.get('/', withAuth, async (req, res) => {
+router.get('/poses', withAuth, async (req, res) => {
     const level = req.query.level;
     const area = req.query.area;
+    const type = req.query.type;
     try {
         const poseData = await Pose.findAll({
             where: {
                 level: level,
-                area: area
+                area: area,
+                type: type
             },
-                    attributes: ['name', 'description'], // attributes is referencing the column name ** THIS IS WHERE IMAGES CAN BE ADDED
+                    attributes: ['name', 'description', 'image'], // attributes is referencing the column name ** THIS IS WHERE IMAGES CAN BE ADDED
 
         });
 
         const poses = poseData.map((pose) => pose.get({ plain: true }));
 
-        res.render('pose', {
+        res.render('poses', {
             poses,
             logged_in: req.session.logged_in
         });
