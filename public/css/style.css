@@ -39,16 +39,23 @@ footer {
   text-align: center;
   padding: 10px 0;
 }
-.logout {
-    display: block;
-    color: #fff;
+#logout {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-    font-size: 16px;
-    padding: 10px 20px;
-    border-radius: 5px;
-    transition: background 0.3s;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    width: 25%;
 }
-.logout:hover {
-    background-color: #555;
+
+#logout:hover {
+    background-color: #111;
 }
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
