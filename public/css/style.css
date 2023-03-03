@@ -1,5 +1,5 @@
 /* navbar styling */
-nav {
+/* nav {
   background-color: #333;
   padding: 10px 0;
   text-align: center;
@@ -28,12 +28,12 @@ nav li a {
 
 nav li a:hover {
   background-color: #555;
-}
+} */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 
 /* footer styling */
-footer {
+/* footer {
   background-color: #333;
   color: #fff;
   text-align: center;
@@ -57,5 +57,11 @@ footer {
 
 #logout:hover {
     background-color: #111;
-}
+} */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+body {
+  background-image: url("/images/assets/mandala-background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

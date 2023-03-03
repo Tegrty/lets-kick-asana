@@ -1,47 +1,48 @@
 {{!-- This view will have. Welcome message, search for your fave pose and render it FORM --}}
-<div>
-    <div>
-     <h2>Welcome home, {{name}}</h2>
-    </div>
+<div class="card bg-light p-4 my-4 mx-auto shadow" style="width: 50%;">
+  <div class="text-center">
+    <h2>Welcome home, {{name}}</h2>
+  </div>
+</div>
 
-    <div>
-        <h3>Search For a Pose</h3>
-        <form class="" id="search-form">
-            <div>
-             <label for="pose-level">Pose level</label>
-                <select name="pose-level" id="pose-level">
-                    <option value="beginner">Beginner</option>
-                    <option value="intermidate">Intermidate</option>
-                    <option value="advanced">Advanced</option>
-                </select>
-            </div>
-            <div>
-             <label for="pose-area">Pose area</label>
-                <select name="pose-area" id="pose-area">
-                    <option value="upper">Upper</option>
-                    <option value="lower">Lower</option>
-                    <option value="core">Core</option>
-                    <option value="full">Full</option>
-                    <option value="hips">Hips</option>
-                </select>
-            </div>
-             <div>
-             <label for="pose-type">Pose type</label>
-                <select name="pose-type" id="pose-type">
-                    <option value="stretching">Stretching</option>
-                    <option value="strengthening">strengthening</option>
-                    <option value="balancing">Balancing</option>
-                    <option value="twisting">Twisting</option>
-                    <option value="digestion">Digestion</option>
-                    <option value="core">Core Activating</option>
-                    <option value="menstruation">Menstruation</option>
-                    <option value="seated">Seated</option>
-                </select>
-            </div>
-            <div>
-                <button type="submit" id="search-btn">Search</button>
-            </div>
-        </form>
+<div class="card bg-light p-4 mt-4 mx-auto shadow" style="width: 50%;">
+  <h3 class="text-center">Search For a Pose</h3>
+
+  <form class="" id="search-form">
+    <div class="form-group">
+      <label for="pose-level">Pose level:</label>
+      <select class="form-control" name="pose-level" id="pose-level">
+        <option value="beginner">Beginner</option>
+        <option value="intermidate">Intermediate</option>
+        <option value="advanced">Advanced</option>
+      </select>
     </div>
+    <div class="form-group">
+      <label for="pose-area">Pose area:</label>
+      <select class="form-control" name="pose-area" id="pose-area">
+        <option value="upper">Upper</option>
+        <option value="lower">Lower</option>
+        <option value="core">Core</option>
+        <option value="full">Full</option>
+        <option value="hips">Hips</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="pose-type">Pose type:</label>
+      <select class="form-control" name="pose-type" id="pose-type">
+        <option value="stretching">Stretching</option>
+        <option value="strengthening">Strengthening</option>
+        <option value="balancing">Balancing</option>
+        <option value="twisting">Twisting</option>
+        <option value="digestion">Digestion</option>
+        <option value="core-activating">Core Activating</option>
+        <option value="menstruation">Menstruation</option>
+        <option value="seated">Seated</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <button class="btn btn-primary btn-block" type="submit" id="search-btn">Search</button>
+    </div>
+  </form>
 </div>
 
