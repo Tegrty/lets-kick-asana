@@ -28,16 +28,16 @@ const withAuth = require('../utils/auth');
 
 // Get route for all poses with auth
 
-router.get('/', async (req, res) => {
+router.get('/gallery',withAuth, async (req, res) => {
     try {
         const poseData = await Pose.findAll({
                 
-                    attributes: ['name', 'description'], // attributes is referencing the column name ** THIS IS WHERE IMAGES CAN BE ADDED
+                    attributes: ['name', 'description', 'image'], // attributes is referencing the column name ** THIS IS WHERE IMAGES CAN BE ADDED
         });
 
         const poses = poseData.map((pose) => pose.get({ plain: true }));
 
-        res.render('homepage', {
+        res.render('gallery', {
             poses,
             logged_in: req.session.logged_in
         });
@@ -49,29 +49,50 @@ router.get('/', async (req, res) => {
 );
 
 
+// // GET Homepage
+router.get('/', (req, res) => {
+    // If the user is already logged in, redirect the request to another route
+    if (req.session.logged_in) {
+        res.redirect('/dashboard');
+        return;
+    }
 
-// get route to render homepage with no data
-// router.get('/', async (req, res) => {
-//     try {
-//         res.render('homepage', {
-//             logged_in: req.session.logged_in
-//         });
-//     } catch (err) {
-//         res.status(500).json(err);
-//     }
-// });
+    res.render('homepage');
+});
+
+// Get dashboard with auth
+router.get('/dashboard', withAuth, async (req, res) => {
+    try {
+        // Find the logged in user based on the session ID
+        const userData = await User.findByPk(req.session.user_id, {
 
 
-// // GET login
+            attributes: { exclude: ['password'] },
+            include: [{ model: Pose }],
+        });
+
+        const user = userData.get({ plain: true });
+
+        res.render('dashboard', {
+            ...user,
+            logged_in: true
+        });
+    } catch (err) {
+        res.status(500).json(err);
+    }
+});
+
+// Get login page
 router.get('/login', (req, res) => {
     // If the user is already logged in, redirect the request to another route
     if (req.session.logged_in) {
-        res.redirect('/');
+        res.redirect('/dashboard');
         return;
     }
 
     res.render('login');
 });
+
 
 
 module.exports = router;

@@ -1,591 +1,471 @@
 [
-    {
-        "name": [
-            "Baby-Cobra-Pose",
-            "Bhujangasana"
-        ],
-        "description": "Strengthen the back body and combat a sedentary lifestyle with this baby backbend",
-        "level": [
-            "beginner"
-        ],
-        "area": [
-            "upper"
-        ],
-        "type": [
-            "Stretching"
-        ],
-        "image":"./images/Baby-Cobra-Pose.png"
-    },
-    {
-        "name": [
-            "Baby-Grasshopper-Pose",
-            "bala-parsva-bhuja-dandasana"
-        ],
-        "description": "Play on the mat and challenge yourself to try something new with this fun and accessible arm balance pose.",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "core",
-            "upper",
-            "lower",
-            "full"
-        ],
-        "type": [
-            "Twisting",
-            "Balancing"
-        ],
-        "image":"./images/Baby-Grasshopper-Pose.png"
-    },
-    {
-        "name": [
-            "Bharadvaja-Twist-Pose",
-            "Bharadvajasana"
-        ],
-        "description": "Increase your spinal awareness and strengthen and stimulate your spine, neck, and shoulders in this seated twist",
-        "level": [
-            "Beginner"
-        ],
-        "area": [
-            "core"
-        ],
-        "type": [
-            "Twisting",
-            "Seated",
-            "Digestion",
-            "Menstruation"
-        ],
-        "image":"./images/Bharadvaja-Twist-Pose.png"
-    },
-    {
-        "name": [
-            "Bird-Dog-Pose",
-            "Dandyamana-Brahmanaasana"
-        ],
-        "description": "Stabilize from the core and find balance in Bird Dog Pose",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "core",
-            "upper",
-            "lower"
-        ],
-        "type": [
-            "Balancing",
-            "Stretching",
-            "Strengthening"
-        ],
-        "image":"./images/Bird-Dog-Pose.png"
-    },
-    {
-        "name": [
-            "Bound-Angle-Pose",
-            "Baddha-Konasana"
-        ],
-        "description": "Open your hips and stretch your inner thigh muscles with Bound Angle Pose",
-        "level": [
-            "Beginner"
-        ],
-        "area": [
-            "lower"
-        ],
-        "type": [
-            "Stretching",
-            "Seated"
-        ],
-        "image":"./images/Bound-Angle-Pose.png"
-    },
-    {
-        "name": [
-            "Bow-Pose",
-            "Dhanurasana"
-        ],
-        "description": "Embody the shape of a bow and become a powerful ring of energy.",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "lower",
-            "upper"
-        ],
-        "type": [
-            "Stretching",
-            "Strengthening"
-        ],
-        "image":"./images/Bow-Pose.png"
-    },
-    {
-        "name": [
-            "Bridge-Pose",
-            "Setu-Bandha-Sarvangasana"
-        ],
-        "description": "A beginner backbend or a core strengthener, the Bridge Pose can offer so much depth. Take a moment to find proper alignment",
-        "level": [
-            "Beginner"
-        ],
-        "area": [
-            "lower"
-        ],
-        "type": [
-            "Strengthening",
-            "Core Activating",
-            "Digestion"
-        ],
-        "image": "./images/Bridge-Pose.png"
-    },
-    {
-        "name": [
-            "Crow-Pose",
-            "Kakasana"
-        ],
-        "description": "This compact arm balance requires lazer sharp focus and concentration, and engaged abs",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "lower",
-            "full"
-        ],
-        "type": [
-            "Balancing",
-            "Strengthening"
-        ],
-        "image":"./images/Crow-Pose.png"
-    },
-    {
-        "name": [
-            "Elephant-Trunk-Pose",
-            "Eka-Hasta-Bhujasana"
-        ],
-        "description": "Build strength, flexibility, and balance in this challenging asana.",
-        "level": [
-            "Advanced"
-        ],
-        "area": [
-            "upper"
-        ],
-        "type": [
-            "Balancing",
-            "Strengthening",
-            "Seated"
-        ],
-        "image":"./images/Elephant-Trunk-Pose.png"
-    },
-    {
-        "name": [
-            "Fallen-Angel-Pose",
-            "Devaduuta Panna Asana"
-        ],
-        "description": "Add a bit of challenge and play to your practice and build courage with this graceful pose.",
-        "level": [
-            "Advanced"
-        ],
-        "area": [
-            "upper",
-            "core"
-        ],
-        "type": [
-            "Balancing",
-            "Strengthening",
-            "Twisting"
-        ],
-        "image":"./images/Fallen-Angel-Pose.png"
-    },
-    {
-        "name": [
-            "Grasshopper-Pose",
-            "Parsva-Bhuja-Dandasana"
-        ],
-        "description": "Create space in your body and learn to fly in this challenging arm balance pose.",
-        "level": [
-            "Advanced"
-        ],
-        "area": [
-            "upper"
-        ],
-        "type": [
-            "Twisting",
-            "Balancing"
-        ],
-        "image":"./images/Grasshopper-Pose.png"
-    },
-    {
-        "name": [
-            "King-Pigeon-Pose",
-            "Eka-Pada-Rajakapotasana"
-        ],
-        "description": "Open up your hip flexors and stretch through the front body in this challenging variation of Pigeon Pose",
-        "level": [
-            "Advanced"
-        ],
-        "area": [
-            "upper",
-            "lower"
-        ],
-        "type": [
-            "Balancing",
-            "Stretching"
-        ],
-        "image":"./images/King-Pigeon-Pose.png"
-    },
-    {
-        "name": [
-            "Humble-Warrior-Pose",
-            "Baddha-Virabhadrasana"
-        ],
-        "description": "Come into a reverent bow as your stability is challenged and you are invited to draw our focus inwards.",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "lower"
-        ],
-        "type": [
-            "Stretching",
-            "Balancing",
-            "Strengthening"
-        ],
-        "image":"./images/Humble-Warrior-Pose.png"
-    },
-    {
-        "name": [
-            "Scale-Pose",
-            "Tolasana"
-        ],
-        "description": "Lift off from the earth and strengthen your hands, wrists, arms, and core in Scale Pose.",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "core",
-            "upper"
-        ],
-        "type": [
-            "Strengthening",
-            "Balancing"
-        ],
-        "image":"./images/Scale-Pose.png"
-    },
-    {
-        "name": [
-            "Shoulder-Pressing-Pose",
-            "Bhujapidasana"
-        ],
-        "description": "Mindful and intentional positioning is key to achieving this arm balance.",
-        "level": [
-            "Advanced"
-        ],
-        "area": [
-            "core",
-            "upper",
-            "lower"
-        ],
-        "type": [
-            "Balancing",
-            "Strengthening"
-        ],
-        "image":"./images/Shoulder-Pressing-Pose.png"
-    },
-    {
-        "name": [
-            "Standing-Splits-Pose",
-            "Urdhva-Prasarita-Eka-Padasana"
-        ],
-        "description": "Challenge your balance, concentration, and flexibility in Standing Splits Pose",
-        "level": [
-            "Advanced"
-        ],
-        "area": [
-            "lower"
-        ],
-        "type": [
-            "Stretching",
-            "Strengthening",
-            "Balancing"
-        ],
-        "image":"./images/Standing-Splits-Pose.png"
-    },
-    {
-        "name": [
-            "Three-Legged-Downward-Facing-Dog-Pose",
-            "Tri-Pada-Adho-Mukha-Svanasana"
-        ],
-        "description": "The Three Legged Downward Dog Pose often holds the space, the inhale, between a Downward-Facing Dog and a standing pose. This pose invites you to flow.",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "upper",
-            "lower",
-            "full"
-        ],
-        "type": [
-            "Balancing",
-            "Stretching",
-            "Strengthening"
-        ],
-        "image":"./images/Three-Legged-Downward-Facing-Dog-Pose.png"
-    },
-    {
-        "name": [
-            "Side-Crow-Pose",
-            "Parsva-Bakasana"
-        ],
-        "description": "This powerful arm balance will challenge the most committed yogi. Be patient with yourself as you foster your practice to achieve this pose.",
-        "level": [
-            "Advanced"
-        ],
-        "area": [
-            "core",
-            "upper"
-        ],
-        "type": [
-            "Balancing",
-            "Strengthening",
-            "Core Activating"
-        ],
-        "image":"./images/Side-Crow-Pose.png"
-    },
-    {
-        "name": [
-            "Side-Reclining-Leg-Lift-Pose",
-            "Anantasana"
-        ],
-        "description": "Give the backs of your legs a deep stretch as you tone your core and stretch your side body.",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "lower"
-        ],
-        "type": [
-            "Balancing",
-            "Stretching"
-        ],
-        "image":"./images/Side-Reclining-Leg-Lift-Pose.png"
-    },
-    {
-        "name": [
-            "Fish-Pose",
-            "Matsyasana"
-        ],
-        "description": "Give your shoulders some loving in Fish Pose. Legend has it that if you perform this pose in water, you will be able to float like a fish.",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "upper",
-            "core"
-        ],
-        "type": [
-            "Stretching",
-            "Menstruation"
-        ],
-        "image":"./images/Fish-Pose.png"
-    },
-    {
-        "name": [
-            "Garland-Pose",
-            "Malasana"
-        ],
-        "description": "This deep squat will provide a fantastic stretch to the ankles, groins, and lower back. This pose is not a competition- let gravity guide your heels as close to the ground as is comfortable",
-        "level": [
-            "Beginner"
-        ],
-        "area": [
-            "full",
-            "upper",
-            "lower"
-        ],
-        "type": [
-            "Stretching",
-            "Menstruation"
-        ],
-        "image":"./images/Garland-Pose.png"
-    },
-    {
-        "name": [
-            "Child-Pose",
-            "Balasana"
-        ],
-        "description": "Come back to yourself and rest in the loving cocoon that is Child’s Pose.",
-        "level": [
-            "Beginner"
-        ],
-        "area": [
-            "lower",
-            "upper"
-        ],
-        "type": [
-            "Stretching",
-            "Menstruation"
-        ],
-        "image":"./images/Child-Pose.png"
-    },
-    {
-        "name": [
-            "Standing-Wide-Legged-Standing-Forward-Bend-Pose",
-            "Prasarita-Padottanasana"
-        ],
-        "description": "Tune into your breath and use gravity to your advantage as you deepen into a Wide Legged Forward Fold and increase your flexibility",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "lower"
-        ],
-        "type": [
-            "Balancing",
-            "Strengthening",
-            "Stretching"
-        ],
-        "image":"./images/Standing-Wide-Legged-Standing-Forward-Bend-Pose.png"
-    },
-    {
-        "name": [
-            "Plow-Pose",
-            "Halasana"
-        ],
-        "description": "This full body stretch can provide deep relief down your spine and offer a place of calm introspection",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "upper"
-        ],
-        "type": [
-            "Stretching"
-        ],
-        "image":"./images/Plow-Pose.png"
-    },
-    {
-        "name": [
-            "Locust-Pose",
-            "Salabhasana"
-        ],
-        "description": "Strengthen your back body, stabilize your core, and prepare for deeper backbends with Locust Pose",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "upper",
-            "core"
-        ],
-        "type": [
-            "Core Activating",
-            "Strengthening"
-        ],
-        "image":"./images/Locust-Pose.png"
-    },
-    {
-        "name": [
-            "Revolved-Head-To-Knee-Pose",
-            "Parivrtta-Janu-Sirsasana"
-        ],
-        "description": "A deep side body and hamstring stretch paired with a wonderful heart opener",
-        "level": [
-            "Beginner"
-        ],
-        "area": [
-            ""
-        ],
-        "type": [
-            "Stretching",
-            "Balancing",
-            "Twisting",
-            "Seated"
-        ],
-        "image":"./images/Revolved-Head-To-Knee-Pose.png"
-    },
-    {
-        "name": [
-            "Low-Lunge-Pose",
-            "Anjaneyasana"
-        ],
-        "description": "This hip opening pose calls for proper alignment as you improve your posture and work on your balance",
-        "level": [
-            "Beginner"
-        ],
-        "area": [
-            "upper",
-            "lower"
-        ],
-        "type": [
-            "Balancing",
-            "Stretching"
-        ],
-        "image":"./images/Low-Lunge-Pose.png"
-    },
-    {
-        "name": [
-            "Reclining-Hero-Pose",
-            "Supta-Virasana"
-        ],
-        "description": "This pose offers a deep stretch to the thighs ankles and knees",
-        "level": [
-            "Advanced"
-        ],
-        "area": [
-            "upper",
-            "lower"
-        ],
-        "type": [
-            "Stretching"
-        ],
-        "image":"./images/Reclining-Hero-Pose.png"
-    },
-    {
-        "name": [
-            "Upward-Plank-Pose",
-            "Purvottanasana"
-        ],
-        "description": "Stretch through your front body and open your chest up to the sky in Upward Plank Pose.",
-        "level": [
-            "Intermediate"
-        ],
-        "area": [
-            "core",
-            "upper"
-        ],
-        "type": [
-            "Strengthening",
-            "Stretching",
-            "Core Activating",
-            "Balancing"
-        ],
-        "image":"./images/Upward-Plank-Pose.png"
-    },
-    {
-        "name": [
-            "Rabbit-Pose",
-            "Shashankasana"
-        ],
-        "description": "Soothe your mind and body in this deep restorative pose.",
-        "level": [
-            "Beginner"
-        ],
-        "area": [
-            "upper"
-        ],
-        "type": [
-            "Stretching"
-        ],
-        "image":"./images/Rabbit-Pose.png"
-    },
-    {
-        "name": [
-            "",
-            ""
-        ],
-        "description": "",
-        "level": [
-            ""
-        ],
-        "area": [
-            ""
-        ],
-        "type": [
-            ""
-        ]
-    },
+  {
+    "name": ["Baby-Cobra-Pose", "Bhujangasana"],
+    "description": "Strengthen the back body and combat a sedentary lifestyle with this baby backbend",
+    "level": ["beginner"],
+    "area": ["upper"],
+    "type": ["Stretching"],
+    "image": "./images/Baby-Cobra-Pose.png"
+  },
+  {
+    "name": ["Baby-Grasshopper-Pose", "bala-parsva-bhuja-dandasana"],
+    "description": "Play on the mat and challenge yourself to try something new with this fun and accessible arm balance pose.",
+    "level": ["Intermediate"],
+    "area": ["core", "upper", "lower", "full"],
+    "type": ["Twisting", "Balancing"],
+    "image": "./images/Baby-Grasshopper-Pose.png"
+  },
+  {
+    "name": ["Bharadvaja-Twist-Pose", "Bharadvajasana"],
+    "description": "Increase your spinal awareness and strengthen and stimulate your spine, neck, and shoulders in this seated twist",
+    "level": ["Beginner"],
+    "area": ["core"],
+    "type": ["Twisting", "Seated", "Digestion", "Menstruation"],
+    "image": "./images/Bharadvaja-Twist-Pose.png"
+  },
+  {
+    "name": ["Bird-Dog-Pose", "Dandyamana-Brahmanaasana"],
+    "description": "Stabilize from the core and find balance in Bird Dog Pose",
+    "level": ["Intermediate"],
+    "area": ["core", "upper", "lower"],
+    "type": ["Balancing", "Stretching", "Strengthening"],
+    "image": "./images/Bird-Dog-Pose.png"
+  },
+  {
+    "name": ["Bound-Angle-Pose", "Baddha-Konasana"],
+    "description": "Open your hips and stretch your inner thigh muscles with Bound Angle Pose",
+    "level": ["Beginner"],
+    "area": ["lower"],
+    "type": ["Stretching", "Seated"],
+    "image": "./images/Bound-Angle-Pose.png"
+  },
+  {
+    "name": ["Bow-Pose", "Dhanurasana"],
+    "description": "Embody the shape of a bow and become a powerful ring of energy.",
+    "level": ["Intermediate"],
+    "area": ["lower", "upper"],
+    "type": ["Stretching", "Strengthening"],
+    "image": "./images/Bow-Pose.png"
+  },
+  {
+    "name": ["Bridge-Pose", "Setu-Bandha-Sarvangasana"],
+    "description": "A beginner backbend or a core strengthener, the Bridge Pose can offer so much depth. Take a moment to find proper alignment",
+    "level": ["Beginner"],
+    "area": ["lower"],
+    "type": ["Strengthening", "Core Activating", "Digestion"],
+    "image": "./images/Bridge-Pose.png"
+  },
+  {
+    "name": ["Crow-Pose", "Kakasana"],
+    "description": "This compact arm balance requires lazer sharp focus and concentration, and engaged abs",
+    "level": ["Intermediate"],
+    "area": ["lower", "full"],
+    "type": ["Balancing", "Strengthening"],
+    "image": "./images/Crow-Pose.png"
+  },
+  {
+    "name": ["Elephant-Trunk-Pose", "Eka-Hasta-Bhujasana"],
+    "description": "Build strength, flexibility, and balance in this challenging asana.",
+    "level": ["Advanced"],
+    "area": ["upper"],
+    "type": ["Balancing", "Strengthening", "Seated"],
+    "image": "./images/Elephant-Trunk-Pose.png"
+  },
+  {
+    "name": ["Fallen-Angel-Pose", "Devaduuta Panna Asana"],
+    "description": "Add a bit of challenge and play to your practice and build courage with this graceful pose.",
+    "level": ["Advanced"],
+    "area": ["upper", "core"],
+    "type": ["Balancing", "Strengthening", "Twisting"],
+    "image": "./images/Fallen-Angel-Pose.png"
+  },
+  {
+    "name": ["Grasshopper-Pose", "Parsva-Bhuja-Dandasana"],
+    "description": "Create space in your body and learn to fly in this challenging arm balance pose.",
+    "level": ["Advanced"],
+    "area": ["upper"],
+    "type": ["Twisting", "Balancing"],
+    "image": "./images/Grasshopper-Pose.png"
+  },
+  {
+    "name": ["King-Pigeon-Pose", "Eka-Pada-Rajakapotasana"],
+    "description": "Open up your hip flexors and stretch through the front body in this challenging variation of Pigeon Pose",
+    "level": ["Advanced"],
+    "area": ["upper", "lower"],
+    "type": ["Balancing", "Stretching"],
+    "image": "./images/King-Pigeon-Pose.png"
+  },
+  {
+    "name": ["Humble-Warrior-Pose", "Baddha-Virabhadrasana"],
+    "description": "Come into a reverent bow as your stability is challenged and you are invited to draw our focus inwards.",
+    "level": ["Intermediate"],
+    "area": ["lower"],
+    "type": ["Stretching", "Balancing", "Strengthening"],
+    "image": "./images/Humble-Warrior-Pose.png"
+  },
+  {
+    "name": ["Scale-Pose", "Tolasana"],
+    "description": "Lift off from the earth and strengthen your hands, wrists, arms, and core in Scale Pose.",
+    "level": ["Intermediate"],
+    "area": ["core", "upper"],
+    "type": ["Strengthening", "Balancing"],
+    "image": "./images/Scale-Pose.png"
+  },
+  {
+    "name": ["Shoulder-Pressing-Pose", "Bhujapidasana"],
+    "description": "Mindful and intentional positioning is key to achieving this arm balance.",
+    "level": ["Advanced"],
+    "area": ["core", "upper", "lower"],
+    "type": ["Balancing", "Strengthening"],
+    "image": "./images/Shoulder-Pressing-Pose.png"
+  },
+  {
+    "name": ["Standing-Splits-Pose", "Urdhva-Prasarita-Eka-Padasana"],
+    "description": "Challenge your balance, concentration, and flexibility in Standing Splits Pose",
+    "level": ["Advanced"],
+    "area": ["lower"],
+    "type": ["Stretching", "Strengthening", "Balancing"],
+    "image": "./images/Standing-Splits-Pose.png"
+  },
+  {
+    "name": [
+      "Three-Legged-Downward-Facing-Dog-Pose",
+      "Tri-Pada-Adho-Mukha-Svanasana"
+    ],
+    "description": "The Three Legged Downward Dog Pose often holds the space, the inhale, between a Downward-Facing Dog and a standing pose. This pose invites you to flow.",
+    "level": ["Intermediate"],
+    "area": ["upper", "lower", "full"],
+    "type": ["Balancing", "Stretching", "Strengthening"],
+    "image": "./images/Three-Legged-Downward-Facing-Dog-Pose.png"
+  },
+  {
+    "name": ["Side-Crow-Pose", "Parsva-Bakasana"],
+    "description": "This powerful arm balance will challenge the most committed yogi. Be patient with yourself as you foster your practice to achieve this pose.",
+    "level": ["Advanced"],
+    "area": ["core", "upper"],
+    "type": ["Balancing", "Strengthening", "Core Activating"],
+    "image": "./images/Side-Crow-Pose.png"
+  },
+  {
+    "name": ["Side-Reclining-Leg-Lift-Pose", "Anantasana"],
+    "description": "Give the backs of your legs a deep stretch as you tone your core and stretch your side body.",
+    "level": ["Intermediate"],
+    "area": ["lower"],
+    "type": ["Balancing", "Stretching"],
+    "image": "./images/Side-Reclining-Leg-Lift-Pose.png"
+  },
+  {
+    "name": ["Fish-Pose", "Matsyasana"],
+    "description": "Give your shoulders some loving in Fish Pose. Legend has it that if you perform this pose in water, you will be able to float like a fish.",
+    "level": ["Intermediate"],
+    "area": ["upper", "core"],
+    "type": ["Stretching", "Menstruation"],
+    "image": "./images/Fish-Pose.png"
+  },
+  {
+    "name": ["Garland-Pose", "Malasana"],
+    "description": "This deep squat will provide a fantastic stretch to the ankles, groins, and lower back. This pose is not a competition- let gravity guide your heels as close to the ground as is comfortable",
+    "level": ["Beginner"],
+    "area": ["full", "upper", "lower"],
+    "type": ["Stretching", "Menstruation"],
+    "image": "./images/Garland-Pose.png"
+  },
+  {
+    "name": ["Child-Pose", "Balasana"],
+    "description": "Come back to yourself and rest in the loving cocoon that is Child’s Pose.",
+    "level": ["Beginner"],
+    "area": ["lower", "upper"],
+    "type": ["Stretching", "Menstruation"],
+    "image": "./images/Child-Pose.png"
+  },
+  {
+    "name": [
+      "Standing-Wide-Legged-Standing-Forward-Bend-Pose",
+      "Prasarita-Padottanasana"
+    ],
+    "description": "Tune into your breath and use gravity to your advantage as you deepen into a Wide Legged Forward Fold and increase your flexibility",
+    "level": ["Intermediate"],
+    "area": ["lower"],
+    "type": ["Balancing", "Strengthening", "Stretching"],
+    "image": "./images/Standing-Wide-Legged-Standing-Forward-Bend-Pose.png"
+  },
+  {
+    "name": ["Plow-Pose", "Halasana"],
+    "description": "This full body stretch can provide deep relief down your spine and offer a place of calm introspection",
+    "level": ["Intermediate"],
+    "area": ["upper"],
+    "type": ["Stretching"],
+    "image": "./images/Plow-Pose.png"
+  },
+  {
+    "name": ["Locust-Pose", "Salabhasana"],
+    "description": "Strengthen your back body, stabilize your core, and prepare for deeper backbends with Locust Pose",
+    "level": ["Intermediate"],
+    "area": ["upper", "core"],
+    "type": ["Core Activating", "Strengthening"],
+    "image": "./images/Locust-Pose.png"
+  },
+  {
+    "name": ["Revolved-Head-To-Knee-Pose", "Parivrtta-Janu-Sirsasana"],
+    "description": "A deep side body and hamstring stretch paired with a wonderful heart opener",
+    "level": ["Beginner"],
+    "area": [""],
+    "type": ["Stretching", "Balancing", "Twisting", "Seated"],
+    "image": "./images/Revolved-Head-To-Knee-Pose.png"
+  },
+  {
+    "name": ["Low-Lunge-Pose", "Anjaneyasana"],
+    "description": "This hip opening pose calls for proper alignment as you improve your posture and work on your balance",
+    "level": ["Beginner"],
+    "area": ["upper", "lower"],
+    "type": ["Balancing", "Stretching"],
+    "image": "./images/Low-Lunge-Pose.png"
+  },
+  {
+    "name": ["Reclining-Hero-Pose", "Supta-Virasana"],
+    "description": "This pose offers a deep stretch to the thighs ankles and knees",
+    "level": ["Advanced"],
+    "area": ["upper", "lower"],
+    "type": ["Stretching"],
+    "image": "./images/Reclining-Hero-Pose.png"
+  },
+  {
+    "name": ["Upward-Plank-Pose", "Purvottanasana"],
+    "description": "Stretch through your front body and open your chest up to the sky in Upward Plank Pose.",
+    "level": ["Intermediate"],
+    "area": ["core", "upper"],
+    "type": ["Strengthening", "Stretching", "Core Activating", "Balancing"],
+    "image": "./images/Upward-Plank-Pose.png"
+  },
+  {
+    "name": ["Rabbit-Pose", "Shashankasana"],
+    "description": "Soothe your mind and body in this deep restorative pose.",
+    "level": ["Beginner"],
+    "area": ["upper"],
+    "type": ["Stretching"],
+    "image": "./images/Rabbit-Pose.png"
+  },
+  {
+    "name": ["", ""],
+    "description": "",
+    "level": [""],
+    "area": [""],
+    "type": [""]
+  },
+  {
+    "name": ["Baby-Cobra-Pose", "Bhujangasana"],
+    "description": "Strengthen the back body and combat a sedentary lifestyle with this baby backbend",
+    "level": ["beginner"],
+    "area": ["upper"],
+    "type": ["Stretching"]
+  },
+  {
+    "name": ["Baby-Grasshopper-Pose", "bala-parsva-bhuja-dandasana"],
+    "description": "Play on the mat and challenge yourself to try something new with this fun and accessible arm balance pose.",
+    "level": ["Intermediate"],
+    "area": ["core", "upper", "lower", "full"],
+    "type": ["Twisting", "Balancing"]
+  },
+  {
+    "name": ["Bharadvaja-Twist-Pose", "Bharadvajasana"],
+    "description": "Increase your spinal awareness and strengthen and stimulate your spine, neck, and shoulders in this seated twist",
+    "level": ["Beginner"],
+    "area": ["core"],
+    "type": ["Twisting", "Seated", "Digestion", "Menstruation"]
+  },
+  {
+    "name": ["Bird-Dog-Pose", "Dandyamana-Brahmanaasana"],
+    "description": "Stabilize from the core and find balance in Bird Dog Pose",
+    "level": ["Intermediate"],
+    "area": ["core", "upper", "lower"],
+    "type": ["Balancing", "Stretching", "Strengthening"]
+  },
+  {
+    "name": ["Bound-Angle-Pose", "Baddha-Konasana"],
+    "description": "Open your hips and stretch your inner thigh muscles with Bound Angle Pose",
+    "level": ["Beginner"],
+    "area": ["lower"],
+    "type": ["Stretching", "Seated"]
+  },
+  {
+    "name": ["Bow-Pose", "Dhanurasana"],
+    "description": "Embody the shape of a bow and become a powerful ring of energy.",
+    "level": ["Intermediate"],
+    "area": ["lower", "upper"],
+    "type": ["Stretching", "Strengthening"]
+  },
+  {
+    "name": ["Bridge-Pose", "Setu-Bandha-Sarvangasana"],
+    "description": "A beginner backbend or a core strengthener, the Bridge Pose can offer so much depth. Take a moment to find proper alignment",
+    "level": ["Beginner"],
+    "area": ["lower"],
+    "type": ["Strengthening", "Core Activating", "Digestion"]
+  },
+  {
+    "name": ["Crow-Pose", "Kakasana"],
+    "description": "This compact arm balance requires lazer sharp focus and concentration, and engaged abs",
+    "level": ["Intermediate"],
+    "area": ["lower", "full"],
+    "type": ["Balancing", "Strengthening"]
+  },
+  {
+    "name": ["Elephant-Trunk-Pose", "Eka-Hasta-Bhujasana"],
+    "description": "Build strength, flexibility, and balance in this challenging asana.",
+    "level": ["Advanced"],
+    "area": ["upper"],
+    "type": ["Balancing", "Strengthening", "Seated"]
+  },
+  {
+    "name": ["Fallen-Angel-Pose", "Devaduuta Panna Asana"],
+    "description": "Add a bit of challenge and play to your practice and build courage with this graceful pose.",
+    "level": ["Advanced"],
+    "area": ["upper", "core"],
+    "type": ["Balancing", "Strengthening", "Twisting"]
+  },
+  {
+    "name": ["Grasshopper-Pose", "Parsva-Bhuja-Dandasana"],
+    "description": "Create space in your body and learn to fly in this challenging arm balance pose.",
+    "level": ["Advanced"],
+    "area": ["upper"],
+    "type": ["Twisting", "Balancing"]
+  },
+  {
+    "name": ["King-Pigeon-Pose", "Eka-Pada-Rajakapotasana"],
+    "description": "Open up your hip flexors and stretch through the front body in this challenging variation of Pigeon Pose",
+    "level": ["Advanced"],
+    "area": ["upper", "lower"],
+    "type": ["Balancing", "Stretching"]
+  },
+  {
+    "name": ["Humble-Warrior-Pose", "Baddha-Virabhadrasana"],
+    "description": "Come into a reverent bow as your stability is challenged and you are invited to draw our focus inwards.",
+    "level": ["Intermediate"],
+    "area": ["lower"],
+    "type": ["Stretching", "Balancing", "Strengthening"]
+  },
+  {
+    "name": ["Scale-Pose", "Tolasana"],
+    "description": "Lift off from the earth and strengthen your hands, wrists, arms, and core in Scale Pose.",
+    "level": ["Intermediate"],
+    "area": ["core", "upper"],
+    "type": ["Strengthening", "Balancing"]
+  },
+  {
+    "name": ["Shoulder-Pressing-Pose", "Bhujapidasana"],
+    "description": "Mindful and intentional positioning is key to achieving this arm balance.",
+    "level": ["Advanced"],
+    "area": ["core", "upper", "lower"],
+    "type": ["Balancing", "Strengthening"]
+  },
+  {
+    "name": ["Standing-Splits-Pose", "Urdhva-Prasarita-Eka-Padasana"],
+    "description": "Challenge your balance, concentration, and flexibility in Standing Splits Pose",
+    "level": ["Advanced"],
+    "area": ["lower"],
+    "type": ["Stretching", "Strengthening", "Balancing"]
+  },
+  {
+    "name": [
+      "Three-Legged-Downward-Facing-Dog-Pose",
+      "Tri-Pada-Adho-Mukha-Svanasana"
+    ],
+    "description": "The Three Legged Downward Dog Pose often holds the space, the inhale, between a Downward-Facing Dog and a standing pose. This pose invites you to flow.",
+    "level": ["Intermediate"],
+    "area": ["upper", "lower", "full"],
+    "type": ["Balancing", "Stretching", "Strengthening"]
+  },
+  {
+    "name": ["Side-Crow-Pose", "Parsva-Bakasana"],
+    "description": "This powerful arm balance will challenge the most committed yogi. Be patient with yourself as you foster your practice to achieve this pose.",
+    "level": ["Advanced"],
+    "area": ["core", "upper"],
+    "type": ["Balancing", "Strengthening", "Core Activating"]
+  },
+  {
+    "name": ["Side-Reclining-Leg-Lift-Pose", "Anantasana"],
+    "description": "Give the backs of your legs a deep stretch as you tone your core and stretch your side body.",
+    "level": ["Intermediate"],
+    "area": ["lower"],
+    "type": ["Balancing", "Stretching"]
+  },
+  {
+    "name": ["Fish-Pose", "Matsyasana"],
+    "description": "Give your shoulders some loving in Fish Pose. Legend has it that if you perform this pose in water, you will be able to float like a fish.",
+    "level": ["Intermediate"],
+    "area": ["upper", "core"],
+    "type": ["Stretching", "Menstruation"]
+  },
+  {
+    "name": ["Garland-Pose", "Malasana"],
+    "description": "This deep squat will provide a fantastic stretch to the ankles, groins, and lower back. This pose is not a competition- let gravity guide your heels as close to the ground as is comfortable",
+    "level": ["Beginner"],
+    "area": ["full", "upper", "lower"],
+    "type": ["Stretching", "Menstruation"]
+  },
+  {
+    "name": ["Child-Pose", "Balasana"],
+    "description": "Come back to yourself and rest in the loving cocoon that is Child's Pose.",
+    "level": ["Beginner"],
+    "area": ["lower", "upper"],
+    "type": ["Stretching", "Menstruation"]
+  },
+  {
+    "name": [
+      "Standing-Wide-Legged-Standing-Forward-Bend-Pose",
+      "Prasarita-Padottanasana"
+    ],
+    "description": "Tune into your breath and use gravity to your advantage as you deepen into a Wide Legged Forward Fold and increase your flexibility",
+    "level": ["Intermediate"],
+    "area": ["lower"],
+    "type": ["Balancing", "Strengthening", "Stretching"]
+  },
+  {
+    "name": ["Plow-Pose", "Halasana"],
+    "description": "This full body stretch can provide deep relief down your spine and offer a place of calm introspection",
+    "level": ["Intermediate"],
+    "area": ["upper"],
+    "type": ["Stretching"]
+  },
+  {
+    "name": ["Locust-Pose", "Salabhasana"],
+    "description": "Strengthen your back body, stabilize your core, and prepare for deeper backbends with Locust Pose",
+    "level": ["Intermediate"],
+    "area": ["upper", "core"],
+    "type": ["Core Activating", "Strengthening"]
+  },
+  {
+    "name": ["Revolved-Head-To-Knee-Pose", "Parivrtta-Janu-Sirsasana"],
+    "description": "A deep side body and hamstring stretch paired with a wonderful heart opener",
+    "level": ["Beginner"],
+    "area": [""],
+    "type": ["Stretching", "Balancing", "Twisting", "Seated"]
+  },
+  {
+    "name": ["Low-Lunge-Pose ", "Anjaneyasana"],
+    "description": "This hip opening pose calls for proper alignment as you improve your posture and work on your balance",
+    "level": ["Beginner"],
+    "area": ["upper", "lower"],
+    "type": ["Balancing", "Stretching"]
+  },
+  {
+    "name": ["Reclining-Hero-Pose", "Supta-Virasana"],
+    "description": "This pose offers a deep stretch to the thighs ankles and knees",
+    "level": ["Advanced"],
+    "area": ["upper", "lower"],
+    "type": ["Stretching"]
+  },
+  {
+    "name": ["Upward-Plank-Pose", "Purvottanasana"],
+    "description": "Stretch through your front body and open your chest up to the sky in Upward Plank Pose.",
+    "level": ["Intermediate"],
+    "area": ["core", "upper"],
+    "type": ["Strengthening", "Stretching", "Core Activating", "Balancing"]
+  },
+  {
+    "name": ["Rabbit-Pose", "Shashankasana"],
+    "description": "Soothe your mind and body in this deep restorative pose.",
+    "level": ["Beginner"],
+    "area": ["upper"],
+    "type": ["Stretching"]
+  }
+]
