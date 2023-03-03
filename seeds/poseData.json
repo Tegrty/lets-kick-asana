@@ -1,10 +1,10 @@
 [
   {
-    "name": ["Baby-Cobra-Pose", "Bhujangasana"],
+    "name": "Baby-Cobra-Pose, Bhujangasana",
     "description": "Strengthen the back body and combat a sedentary lifestyle with this baby backbend",
-    "level": ["beginner"],
-    "area": ["upper"],
-    "type": ["Stretching"],
+    "level": "beginner",
+    "area": "upper",
+    "type": "Stretching",
     "image": "./images/Baby-Cobra-Pose.png"
   },
   {
