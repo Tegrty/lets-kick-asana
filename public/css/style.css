@@ -66,3 +66,30 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+
+.creators {
+  background-color: #fff;
+  font-size: 25px;
+  font-family: sans-serif;
+  border-style: solid;
+  border-radius: 15px;
+}
+
+#creators-text{
+  font-size: 20px;
+  border-radius: 3px;
+  font-family: sans-serif;
+}
+
+
+
+#mario-text, #devarsh-text, #mariah-text {
+  background-color: #fff;
+  margin-bottom: 0;
+  border-style: solid;
+  border-radius: 15px;
+  padding: 0;
+}
+
+
