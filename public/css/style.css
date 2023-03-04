@@ -62,7 +62,7 @@ nav li a:hover {
 
 
 body {
-  background-image: url("/images/assets/mandala-background.jpg");
+  background-color: #b39977;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -71,7 +71,13 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Italiana', serif;
 }
 
-.navbar-custom {
-  background-color: rgb(207, 185, 151) !important;
+.hero {
+  height: 60vh;
+  background-image: url('/images/assets/hero-img_1.1.1_1.1.2.png');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
 }
 
