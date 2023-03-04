@@ -65,3 +65,12 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Italiana', serif;
+}
+
+.navbar-custom {
+  background-color: rgb(207, 185, 151) !important;
+}
+
