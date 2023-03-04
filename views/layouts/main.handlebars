@@ -12,13 +12,16 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="/css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Italiana&family=Roboto:wght@100&display=swap" rel="stylesheet">
   </head>
 
   <body>
     <div>
       <header>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-          <a class="navbar-brand" href="#">Logo</a>
+          <a class="navbar-brand" href="#"></a>
           <button
             class="navbar-toggler"
             type="button"
@@ -37,10 +40,10 @@
                   <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/dashboard">Dashboard</a>
+                <a class="nav-link" href="/dashboard">Search Poses</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/gallery">Gallery</a>
+                <a class="nav-link" href="/gallery">Pose Gallery</a>
               </li>
               {{#if logged_in}}
                 <li class="nav-item">
@@ -50,12 +53,13 @@
             </ul>
           </div>
         </nav>
-
+        <section class="hero">
+          
+        </section>
       </header>
 
       <main>
         {{{body}}}
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/WCFfjp0bPuM?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
       </main>
 
