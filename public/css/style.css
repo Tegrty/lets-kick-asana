@@ -62,34 +62,25 @@ nav li a:hover {
 
 
 body {
-  background-image: url("/images/assets/mandala-background.jpg");
+  background-color: #b39977;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-
-.creators {
-  background-color: #fff;
-  font-size: 25px;
-  font-family: sans-serif;
-  border-style: solid;
-  border-radius: 15px;
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Italiana', serif;
 }
 
-#creators-text{
-  font-size: 20px;
-  border-radius: 3px;
-  font-family: sans-serif;
+.hero {
+  height: 60vh;
+  background-image: url('/images/assets/hero-img_1.1.1_1.1.2.png');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
 }
 
-
-
-#mario-text, #devarsh-text, #mariah-text {
-  background-color: #fff;
-  margin-bottom: 0;
-  border-style: solid;
-  border-radius: 15px;
-  padding: 0;
+.card {
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.08);
 }
-
-

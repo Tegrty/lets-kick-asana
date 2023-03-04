@@ -1,50 +1,56 @@
 {{!-- hero section --}}
-<div class="card bg-light p-4 my-4 mx-3 shadow-lg">
-  <div class="hero text-center">
-    <h1 class="title">KICK ASANA</h1>
-    <h2 class="subtitle text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nihil animi facere beatae officiis repellat fuga, quae in molestiae cumque omnis voluptatum, saepe obcaecati architecto sed magni reprehenderit non nostrum excepturi adipisci quod ullam. Doloribus sunt deserunt laudantium ab illum. Voluptates totam odit quibusdam illo maiores asperiores id incidunt hic?</h2>
+<div class="card bg-light p-4 shadow-lg">
+  <div class="hero-info text-center">
+    <h1 class="title">LETS KICK ASANA</h1>
+    <p class="subtitle text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nihil animi facere beatae officiis repellat fuga, quae in molestiae cumque omnis voluptatum, saepe obcaecati architecto sed magni reprehenderit non nostrum excepturi adipisci quod ullam. Doloribus sunt deserunt laudantium ab illum. Voluptates totam odit quibusdam illo maiores asperiores id incidunt hic?</p>
   </div>
 </div>
 
-<div class="card bg-light p-4 mt-4 mx-5 mx-auto shadow-lg" style="width: 50%;">
-  <h2 class="text-center">Login</h2>
-
-  <form class="form login-form">
-    <div class="form-group">
-      <label for="email-login">email:</label>
-      <input class="form-control" type="text" id="email-login" />
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="card bg-light p-4 mt-4 mx-auto shadow-lg">
+        <h2 class="text-center">Login</h2>
+        <form class="form login-form">
+          <div class="form-group">
+            <label for="email-login">Email:</label>
+            <input class="form-control" type="text" id="email-login" />
+          </div>
+          <div class="form-group">
+            <label for="password-login">Password:</label>
+            <input class="form-control" type="password" id="password-login" />
+          </div>
+          <div class="form-group">
+            <button class="btn btn-secondary " type="submit">Login</button>
+          </div>
+        </form>
+      </div>
     </div>
-    <div class="form-group">
-      <label for="password-login">password:</label>
-      <input class="form-control" type="password" id="password-login" />
+    <div class="col-md-6">
+      <div class="card bg-light p-4 mt-4 mx-auto shadow-lg">
+        <h2 class="text-center">Signup</h2>
+        <form class="form signup-form">
+          <div class="form-group">
+            <label for="name-signup">Name:</label>
+            <input class="form-control" type="text" id="name-signup" />
+          </div>
+          <div class="form-group">
+            <label for="email-signup">Email:</label>
+            <input class="form-control" type="text" id="email-signup" />
+          </div>
+          <div class="form-group">
+            <label for="password-signup">Password:</label>
+            <input class="form-control" type="password" id="password-signup" />
+          </div>
+          <div class="form-group">
+            <button class="btn btn-secondary" type="submit">Signup</button>
+          </div>
+        </form>
+      </div>
     </div>
-    <div class="form-group">
-      <button class="btn btn-primary" type="submit">login</button>
-    </div>
-  </form>
+  </div>
 </div>
 
-<div class="card bg-light p-4 mt-4 mx-5 mx-auto shadow-lg" style="width: 50%;">
-  <h2 class="text-center">Signup</h2>
-
-  <form class="form signup-form">
-    <div class="form-group">
-      <label for="name-signup">name:</label>
-      <input class="form-control" type="text" id="name-signup" />
-    </div>
-    <div class="form-group">
-      <label for="email-signup">email:</label>
-      <input class="form-control" type="text" id="email-signup" />
-    </div>
-    <div class="form-group">
-      <label for="password-signup">password:</label>
-      <input class="form-control" type="password" id="password-signup" />
-    </div>
-    <div class="form-group">
-      <button class="btn btn-primary" type="submit">signup</button>
-    </div>
-  </form>
-</div>
 
 
 <script src="./js/login.js"></script>

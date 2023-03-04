@@ -1,8 +1,26 @@
-<div class="">
-    {{#each poses}}
-    <h2>{{ name }}</h2>
-    <h3>hello world</h3>
-    <p>{{description}}</p>
-    <img src="{{image}}" alt="{{name}}">
-    {{/each}}
+<div class="bg-light p-4 mb-4 mx-auto shadow">
+  <div class="text-center">
+    <h2>This is your practice, Namaste.</h2>
+  </div>
 </div>
+
+<div class="container">
+  <div class="row d-flex justify-content-center">
+    {{#each poses}}
+      <div class="card shadow mb-4 mx-4" style="width: 18rem;">
+        <img class="card-img-top" src="{{image}}" alt="{{name}}">
+        <div class="card-body">
+          <h5 class="card-title">{{name}}</h5>
+          <p class="card-text">{{description}}</p>
+        </div>
+      </div>
+    {{/each}}
+  </div>
+</div>
+
+<style>
+.card:hover {
+  transform: scale(1.1);
+  transition: transform 0.2s ease-in-out;
+}
+</style>
