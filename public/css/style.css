@@ -84,3 +84,43 @@ h1, h2, h3, h4, h5, h6 {
 .card {
   box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.08);
 }
+
+#text-block-1 {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2;
+}
+
+#seated-with-dog{
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+#creator-text {
+  margin-left: 300px;
+  margin-right: 300px;
+  border-style: solid;
+  mask-border-width: 2px;
+  border-radius: 25px;
+}
+
+
+footer {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+footer a {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+}
