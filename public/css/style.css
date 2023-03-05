@@ -85,14 +85,20 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.08);
 }
 
+#kick-text {
+  font-size: 30px;
+}
+
+#asana-text {
+  font-size: 35px;
+}
 #text-block-1 {
-  font-size: 25px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
   line-height: 2;
 }
 
 #seated-with-dog{
-  height: 60vh;
+  height: 80vh;
   background-image: url('/images/assets/seated-with-dog.jpeg');
   background-size: cover;
   background-position: center;
@@ -102,13 +108,30 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #creator-text {
-  margin-left: 300px;
-  margin-right: 300px;
   border-style: solid;
-  mask-border-width: 2px;
+  border-width: 1px;
   border-radius: 25px;
+  font-family: serif;
 }
 
+#mario {
+  border-radius: 500px;
+}
+
+#devarsh {
+  border-radius: 500px;
+}
+#mariah {
+  border-radius: 500px;
+}
+
+.bio {
+  font-size: 13px;
+}
+
+.bio-1 {
+  font-size: 10px;
+}
 
 footer {
   background-color: #fff;
@@ -124,3 +147,4 @@ footer a {
   color: black;
   font-size: 12px;
 }
+
