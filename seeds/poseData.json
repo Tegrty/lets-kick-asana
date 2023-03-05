@@ -255,6 +255,24 @@
     "type": "Twisting",
     "image": "/images/Fallen-Angel-Pose.png"
   },
+
+  {
+    "name": "Fallen-Angel-Pose, Devaduuta Panna Asana",
+    "description": "Add a bit of challenge and play to your practice and build courage with this graceful pose.",
+    "level": "Advanced",
+    "area": "lower",
+    "type": "Twisting",
+    "image": "/images/Fallen-Angel-Pose.png"
+  },
+  {
+    "name": "Fallen-Angel-Pose, Devaduuta Panna Asana",
+    "description": "Add a bit of challenge and play to your practice and build courage with this graceful pose.",
+    "level": "Advanced",
+    "area": "full",
+    "type": "Twisting",
+    "image": "/images/Fallen-Angel-Pose.png"
+  },
+
   {
     "name": "Grasshopper-Pose, Parsva-Bhuja-Dandasana",
     "description": "Create space in your body and learn to fly in this challenging arm balance pose.",
@@ -600,6 +618,22 @@
     "image": "/images/Fish-Pose.png"
   },
   {
+    "name": "Fish-Pose, Matsyasana",
+    "description": "Give your shoulders some loving in Fish Pose. Legend has it that if you perform this pose in water, you will be able to float like a fish.",
+    "level": "Intermediate",
+    "area": "lower",
+    "type": "Menstruation",
+    "image": "/images/Fish-Pose.png"
+  },
+  {
+    "name": "Fish-Pose, Matsyasana",
+    "description": "Give your shoulders some loving in Fish Pose. Legend has it that if you perform this pose in water, you will be able to float like a fish.",
+    "level": "Intermediate",
+    "area": "full",
+    "type": "Menstruation",
+    "image": "/images/Fish-Pose.png"
+  },
+  {
     "name": "Garland-Pose, Malasana",
     "description": "This deep squat will provide a fantastic stretch to the ankles, groins, and lower back. This pose is not a competition- let gravity guide your heels as close to the ground as is comfortable",
     "level": "Beginner",
@@ -709,6 +743,54 @@
     "level": "Intermediate",
     "area": "upper",
     "type": "Stretching",
+    "image": "/images/Plow-Pose.png"
+  },
+  {
+    "name": "Plow-Pose, Halasana",
+    "description": "This full body stretch can provide deep relief down your spine and offer a place of calm introspection",
+    "level": "Intermediate",
+    "area": "upper",
+    "type": "Twisting",
+    "image": "/images/Plow-Pose.png"
+  },
+  {
+    "name": "Plow-Pose, Halasana",
+    "description": "This full body stretch can provide deep relief down your spine and offer a place of calm introspection",
+    "level": "Intermediate",
+    "area": "upper",
+    "type": "Digestion",
+    "image": "/images/Plow-Pose.png"
+  },
+  {
+    "name": "Plow-Pose, Halasana",
+    "description": "This full body stretch can provide deep relief down your spine and offer a place of calm introspection",
+    "level": "Intermediate",
+    "area": "full",
+    "type": "Digestion",
+    "image": "/images/Plow-Pose.png"
+  },
+  {
+    "name": "Plow-Pose, Halasana",
+    "description": "This full body stretch can provide deep relief down your spine and offer a place of calm introspection",
+    "level": "Intermediate",
+    "area": "lower",
+    "type": "Digestion",
+    "image": "/images/Plow-Pose.png"
+  },
+  {
+    "name": "Plow-Pose, Halasana",
+    "description": "This full body stretch can provide deep relief down your spine and offer a place of calm introspection",
+    "level": "Intermediate",
+    "area": "core",
+    "type": "Digestion",
+    "image": "/images/Plow-Pose.png"
+  },
+  {
+    "name": "Plow-Pose, Halasana",
+    "description": "This full body stretch can provide deep relief down your spine and offer a place of calm introspection",
+    "level": "Intermediate",
+    "area": "core",
+    "type": "Twisting",
     "image": "/images/Plow-Pose.png"
   },
   {
@@ -960,19 +1042,430 @@
     "image": "/images/Rabbit-Pose.png"
   },
   {
-    "name": [
-      "",
-      ""
-    ],
+    "name": "Rabbit-Pose, Shashankasana",
+    "description": "Soothe your mind and body in this deep restorative pose.",
+    "level": "Beginner",
+    "area": "upper",
+    "type": "Digestion",
+    "image": "/images/Rabbit-Pose.png"
+  },
+ {
+
+    "name": "Tiger-Pose, Vyaghrasana",
+    "description": "Stretch like a graceful tiger and build your balance in Vyaghrasana.",
+    "level": "Beginner",
+    "area": "upper",
+    "type": "Strengthening",
+    "image": "/images/Tiger-Pose.png"
+  },
+ {
+
+    "name": "Tiger-Pose, Vyaghrasana",
+    "description": "Stretch like a graceful tiger and build your balance in Vyaghrasana.",
+    "level": "Beginner",
+    "area": "upper",
+    "type": "Digestion",
+    "image": "/images/Tiger-Pose.png"
+  },
+  {
+
+    "name": "Tiger-Pose, Vyaghrasana",
+    "description": "Stretch like a graceful tiger and build your balance in Vyaghrasana.",
+    "level": "Beginner",
+    "area": "lower",
+    "type": "Core Activating",
+    "image": "/images/Tiger-Pose.png"
+  },
+  {
+
+    "name": "Tiger-Pose, Vyaghrasana",
+    "description": "Stretch like a graceful tiger and build your balance in Vyaghrasana.",
+    "level": "Beginner",
+    "area": "core",
+    "type": "Strengthening",
+    "image": "/images/Tiger-Pose.png"
+  },
+  {
+
+    "name": "Tiger-Pose, Vyaghrasana",
+    "description": "Stretch like a graceful tiger and build your balance in Vyaghrasana.",
+    "level": "Beginner",
+    "area": "core",
+    "type": "Stretching",
+    "image": "/images/Tiger-Pose.png"
+  },
+  {
+
+    "name": "Tiger-Pose, Vyaghrasana",
+    "description": "Stretch like a graceful tiger and build your balance in Vyaghrasana.",
+    "level": "Beginner",
+    "area": "full",
+    "type": "Digestion",
+    "image": "/images/Tiger-Pose.png"
+  },
+  {
+
+    "name": "Tiger-Pose, Vyaghrasana",
+    "description": "Stretch like a graceful tiger and build your balance in Vyaghrasana.",
+    "level": "Beginner",
+    "area": "full",
+    "type": "Core Activating",
+    "image": "/images/Tiger-Pose.png"
+  },
+  {
+
+    "name": "Tiger-Pose, Vyaghrasana",
+    "description": "Stretch like a graceful tiger and build your balance in Vyaghrasana.",
+    "level": "Beginner",
+    "area": "core",
+    "type": "Core Activating",
+    "image": "/images/Tiger-Pose.png"
+  },
+  {
+
+    "name": "Tiger-Pose, Vyaghrasana",
+    "description": "Stretch like a graceful tiger and build your balance in Vyaghrasana.",
+    "level": "Beginner",
+    "area": "core",
+    "type": "Balancing",
+    "image": "/images/Tiger-Pose.png"
+  },
+  {
+
+    "name": "Tiger-Pose, Vyaghrasana",
+    "description": "Stretch like a graceful tiger and build your balance in Vyaghrasana.",
+    "level": "Beginner",
+    "area": "full",
+    "type": "Strengthening",
+    "image": "/images/Tiger-Pose.png"
+  },
+
+
+
+
+
+  {
+
+    "name": "Staff-Pose, Dandasana ",
+    "description": "Proper activation and alignment in Staff Pose invite you to find depth in this simple pose.",
+    "level": "Beginner",
+    "area": "upper",
+    "type": "Seated",
+    "image": "/image/Staff-Pose.png"
+  },
+  {
+
+    "name": "Thread-The-Needle-Pose, Parsva Balasana",
+    "description": "Open up your shoulders and stretch the spine in this calming pose.",
+    "level": "Beginner",
+    "area": "upper",
+    "type": "Twisting",
+    "image": "/image/Thread-The-Needle-Pose.png"
+  },
+  {
+
+    "name": "Thread-The-Needle-Pose, Parsva Balasana",
+    "description": "Open up your shoulders and stretch the spine in this calming pose.",
+    "level": "Beginner",
+    "area": "lower",
+    "type": "Twisting",
+    "image": "/image/Thread-The-Needle-Pose.png"
+  },
+  {
+
+    "name": "Thread-The-Needle-Pose, Parsva Balasana",
+    "description": "Open up your shoulders and stretch the spine in this calming pose.",
+    "level": "Beginner",
+    "area": "upper",
+    "type": "Core Activating",
+    "image": "/image/Thread-The-Needle-Pose.png"
+  },
+
+
+
+  {
+
+    "name": "Reclined-Hand-To-Big-Toe-Pose, Supta-Padangusthasana",
+    "description": "Release tight hamstrings and soothe the lower back with this Reclined Hand To Big Toe Pose",
+    "level": "Intermediate",
+    "area": "upper",
+    "type": "Core Activating",
+    "image": "/image/Reclined-Hand-To-Big-Toe-Pose.png"
+  },
+  {
+
+    "name": "Reclined-Hand-To-Big-Toe-Pose, Supta-Padangusthasana",
+    "description": "Release tight hamstrings and soothe the lower back with this Reclined Hand To Big Toe Pose",
+    "level": "Intermediate",
+    "area": "lower",
+    "type": "Core Activating",
+    "image": "/image/Reclined-Hand-To-Big-Toe-Pose.png"
+  },
+  {
+
+    "name": "Reclined-Hand-To-Big-Toe-Pose, Supta-Padangusthasana",
+    "description": "Release tight hamstrings and soothe the lower back with this Reclined Hand To Big Toe Pose",
+    "level": "Intermediate",
+    "area": "full",
+    "type": "Core Activating",
+    "image": "/image/Reclined-Hand-To-Big-Toe-Pose.png"
+  },
+
+
+
+
+
+
+  {
+
+    "name": "Fire-Log-Pose, Agnistambhasana ",
+    "description": "The Fire Log Pose provides the deepest stretch for your hips, relieving tightness, and soothing sciatic pain",
+    "level": "Intermediate",
+    "area": "upper",
+    "type": "Seated",
+    "image": "/image/Fire-Log-Pose.png"
+  },
+  {
+
+    "name": "Fire-Log-Pose, Agnistambhasana ",
+    "description": "The Fire Log Pose provides the deepest stretch for your hips, relieving tightness, and soothing sciatic pain",
+    "level": "Intermediate",
+    "area": "lower",
+    "type": "Seated",
+    "image": "/image/Fire-Log-Pose.png"
+  },
+  {
+
+    "name": "Fire-Log-Pose, Agnistambhasana ",
+    "description": "The Fire Log Pose provides the deepest stretch for your hips, relieving tightness, and soothing sciatic pain",
+    "level": "Intermediate",
+    "area": "core",
+    "type": "Seated",
+    "image": "/image/Fire-Log-Pose.png"
+  },
+  {
+
+    "name": "Fire-Log-Pose, Agnistambhasana ",
+    "description": "The Fire Log Pose provides the deepest stretch for your hips, relieving tightness, and soothing sciatic pain",
+    "level": "Intermediate",
+    "area": "full",
+    "type": "Seated",
+    "image": "/image/Fire-Log-Pose.png"
+  },
+
+  {
+
+    "name": "Revolved-Side-Angle-Pose, Parivrtta-Parsvakonasana ",
+    "description": "Challenge your balance and flexibility as you twist deeply and ground down through your heel.",
+    "level": "Intermediate",
+    "area": "upper",
+    "type": "Twisting",
+    "image": "/image/Revolved-Side-Angle-Pose.png"
+  },
+  {
+
+    "name": "Revolved-Side-Angle-Pose, Parivrtta-Parsvakonasana ",
+    "description": "Challenge your balance and flexibility as you twist deeply and ground down through your heel.",
+    "level": "Intermediate",
+    "area": "full",
+    "type": "Twisting",
+    "image": "/image/Revolved-Side-Angle-Pose.png"
+  },
+  {
+
+    "name": "Revolved-Side-Angle-Pose, Parivrtta-Parsvakonasana ",
+    "description": "Challenge your balance and flexibility as you twist deeply and ground down through your heel.",
+    "level": "Intermediate",
+    "area": "lower",
+    "type": "Twisting",
+    "image": "/image/Revolved-Side-Angle-Pose.png"
+  },
+
+
+  {
+
+    "name": "Boat-Pose, Navasana",
+    "description": "Become aware of your entire body as you hone your concentration to achieve this challenging balancing posture",
+    "level": "Intermediate",
+    "area": "upper",
+    "type": "Digestion",
+    "image": "/image/Boat-Pose.png"
+  },
+  {
+
+    "name": "Boat-Pose, Navasana",
+    "description": "Become aware of your entire body as you hone your concentration to achieve this challenging balancing posture",
+    "level": "Intermediate",
+    "area": "lower",
+    "type": "Digestion",
+    "image": "/image/Boat-Pose.png"
+  },
+  {
+
+    "name": "Boat-Pose, Navasana",
+    "description": "Become aware of your entire body as you hone your concentration to achieve this challenging balancing posture",
+    "level": "Intermediate",
+    "area": "core",
+    "type": "Digestion",
+    "image": "/image/Boat-Pose.png"
+  },
+  {
+
+    "name": "Boat-Pose, Navasana",
+    "description": "Become aware of your entire body as you hone your concentration to achieve this challenging balancing posture",
+    "level": "Intermediate",
+    "area": "full",
+    "type": "Digestion",
+    "image": "/image/Boat-Pose.png"
+  },
+
+  {
+
+    "name": "Peacock-Pose, Mayurasana",
+    "description": "Tap into your relationship with the earth and ground down for stability as you lift up into this challenging arm balance",
+    "level": "Advanced",
+    "area": "upper",
+    "type": "Digestion",
+    "image": "/image/Peacock-Pose.png"
+  },
+  {
+
+    "name": "Peacock-Pose, Mayurasana",
+    "description": "Tap into your relationship with the earth and ground down for stability as you lift up into this challenging arm balance",
+    "level": "Advanced",
+    "area": "lower",
+    "type": "Digestion",
+    "image": "/image/Peacock-Pose.png"
+  },
+  {
+
+    "name": "Peacock-Pose, Mayurasana",
+    "description": "Tap into your relationship with the earth and ground down for stability as you lift up into this challenging arm balance",
+    "level": "Advanced",
+    "area": "core",
+    "type": "Digestion",
+    "image": "/image/Peacock-Pose.png"
+  },
+  {
+
+    "name": "Peacock-Pose, Mayurasana",
+    "description": "Tap into your relationship with the earth and ground down for stability as you lift up into this challenging arm balance",
+    "level": "Advanced",
+    "area": "full",
+    "type": "Digestion",
+    "image": "/image/Peacock-Pose.png"
+  },
+  {
+
+    "name": "Peacock-Pose, Mayurasana",
+    "description": "Tap into your relationship with the earth and ground down for stability as you lift up into this challenging arm balance",
+    "level": "Advanced",
+    "area": "full",
+    "type": "Balancing",
+    "image": "/image/Peacock-Pose.png"
+  },
+  {
+
+    "name": "Peacock-Pose, Mayurasana",
+    "description": "Tap into your relationship with the earth and ground down for stability as you lift up into this challenging arm balance",
+    "level": "Advanced",
+    "area": "full",
+    "type": "Strengthening",
+    "image": "/image/Peacock-Pose.png"
+  },
+  {
+
+    "name": "Peacock-Pose, Mayurasana",
+    "description": "Tap into your relationship with the earth and ground down for stability as you lift up into this challenging arm balance",
+    "level": "Advanced",
+    "area": "full",
+    "type": "Core Activating",
+    "image": "/image/Peacock-Pose.png"
+  },
+  {
+
+    "name": "Peacock-Pose, Mayurasana",
+    "description": "Tap into your relationship with the earth and ground down for stability as you lift up into this challenging arm balance",
+    "level": "Advanced",
+    "area": "upper",
+    "type": "Core Activating",
+    "image": "/image/Peacock-Pose.png"
+  },
+  {
+
+    "name": "Peacock-Pose, Mayurasana",
+    "description": "Tap into your relationship with the earth and ground down for stability as you lift up into this challenging arm balance",
+    "level": "Advanced",
+    "area": "lower",
+    "type": "Core Activating",
+    "image": "/image/Peacock-Pose.png"
+  },
+  {
+
+    "name": "Peacock-Pose, Mayurasana",
+    "description": "Tap into your relationship with the earth and ground down for stability as you lift up into this challenging arm balance",
+    "level": "Advanced",
+    "area": "core",
+    "type": "Core Activating",
+    "image": "/image/Peacock-Pose.png"
+  },
+
+
+  {
+
+    "name": "Monkey-Pose, Hanumanasana",
+    "description": "Channel the devotion and courage of a Hindu god who gave this pose its name, and deepen your hip and leg flexibility.",
+    "level": "Advanced",
+    "area": "core",
+    "type": "Stretching",
+    "image": "/image/Monkey-Pose.png"
+  },
+  {
+
+    "name": "Monkey-Pose, Hanumanasana",
+    "description": "Channel the devotion and courage of a Hindu god who gave this pose its name, and deepen your hip and leg flexibility.",
+    "level": "Advanced",
+    "area": "full",
+    "type": "Stretching",
+    "image": "/image/Monkey-Pose.png"
+  },
+  {
+
+    "name": "Monkey-Pose, Hanumanasana",
+    "description": "Channel the devotion and courage of a Hindu god who gave this pose its name, and deepen your hip and leg flexibility.",
+    "level": "Advanced",
+    "area": "full",
+    "type": "Seated",
+    "image": "/image/Monkey-Pose.png"
+  },
+  {
+
+    "name": "Monkey-Pose, Hanumanasana",
+    "description": "Channel the devotion and courage of a Hindu god who gave this pose its name, and deepen your hip and leg flexibility.",
+    "level": "Advanced",
+    "area": "core",
+    "type": "Seated",
+    "image": "/image/Monkey-Pose.png"
+  },
+  {
+
+    "name": "Monkey-Pose, Hanumanasana",
+    "description": "Channel the devotion and courage of a Hindu god who gave this pose its name, and deepen your hip and leg flexibility.",
+    "level": "Advanced",
+    "area": "lower",
+    "type": "Seated",
+    "image": "/image/Monkey-Pose.png"
+  },
+
+
+  {
+
+    "name": "",
     "description": "",
-    "level": [
-      ""
-    ],
-    "area": [
-      ""
-    ],
-    "type": [
-      ""
-    ]
+    "level": "",
+    "area": "",
+    "type": "",
+    "image": ""
   }
+
 ]
