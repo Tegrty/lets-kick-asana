@@ -23,6 +23,8 @@ Lets kick Asana !
 * [License](#license)
 * [Questions](#questions)
 
+![image](/public/assets/asana-gif.gif)
+
 ## Installation
 
 - Clone the repository to your local machine.
