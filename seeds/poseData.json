@@ -1151,7 +1151,7 @@
     "level": "Beginner",
     "area": "upper",
     "type": "Seated",
-    "image": "/image/Staff-Pose.png"
+    "image": "/images/Staff-Pose.png"
   },
   {
 
@@ -1160,7 +1160,7 @@
     "level": "Beginner",
     "area": "upper",
     "type": "Twisting",
-    "image": "/image/Thread-The-Needle-Pose.png"
+    "image": "/images/Thread-The-Needle-Pose.png"
   },
   {
 
@@ -1169,7 +1169,7 @@
     "level": "Beginner",
     "area": "lower",
     "type": "Twisting",
-    "image": "/image/Thread-The-Needle-Pose.png"
+    "image": "/images/Thread-The-Needle-Pose.png"
   },
   {
 
@@ -1178,7 +1178,7 @@
     "level": "Beginner",
     "area": "upper",
     "type": "Core Activating",
-    "image": "/image/Thread-The-Needle-Pose.png"
+    "image": "/images/Thread-The-Needle-Pose.png"
   },
 
 
@@ -1190,7 +1190,7 @@
     "level": "Intermediate",
     "area": "upper",
     "type": "Core Activating",
-    "image": "/image/Reclined-Hand-To-Big-Toe-Pose.png"
+    "image": "/images/Reclined-Hand-To-Big-Toe-Pose.png"
   },
   {
 
@@ -1199,7 +1199,7 @@
     "level": "Intermediate",
     "area": "lower",
     "type": "Core Activating",
-    "image": "/image/Reclined-Hand-To-Big-Toe-Pose.png"
+    "image": "/images/Reclined-Hand-To-Big-Toe-Pose.png"
   },
   {
 
@@ -1208,7 +1208,7 @@
     "level": "Intermediate",
     "area": "full",
     "type": "Core Activating",
-    "image": "/image/Reclined-Hand-To-Big-Toe-Pose.png"
+    "image": "/images/Reclined-Hand-To-Big-Toe-Pose.png"
   },
 
 
@@ -1223,7 +1223,7 @@
     "level": "Intermediate",
     "area": "upper",
     "type": "Seated",
-    "image": "/image/Fire-Log-Pose.png"
+    "image": "/images/Fire-Log-Pose.png"
   },
   {
 
@@ -1232,7 +1232,7 @@
     "level": "Intermediate",
     "area": "lower",
     "type": "Seated",
-    "image": "/image/Fire-Log-Pose.png"
+    "image": "/images/Fire-Log-Pose.png"
   },
   {
 
@@ -1241,7 +1241,7 @@
     "level": "Intermediate",
     "area": "core",
     "type": "Seated",
-    "image": "/image/Fire-Log-Pose.png"
+    "image": "/images/Fire-Log-Pose.png"
   },
   {
 
@@ -1250,7 +1250,7 @@
     "level": "Intermediate",
     "area": "full",
     "type": "Seated",
-    "image": "/image/Fire-Log-Pose.png"
+    "image": "/images/Fire-Log-Pose.png"
   },
 
   {
@@ -1260,7 +1260,7 @@
     "level": "Intermediate",
     "area": "upper",
     "type": "Twisting",
-    "image": "/image/Revolved-Side-Angle-Pose.png"
+    "image": "/images/Revolved-Side-Angle-Pose.png"
   },
   {
 
@@ -1269,7 +1269,7 @@
     "level": "Intermediate",
     "area": "full",
     "type": "Twisting",
-    "image": "/image/Revolved-Side-Angle-Pose.png"
+    "image": "/images/Revolved-Side-Angle-Pose.png"
   },
   {
 
@@ -1278,7 +1278,7 @@
     "level": "Intermediate",
     "area": "lower",
     "type": "Twisting",
-    "image": "/image/Revolved-Side-Angle-Pose.png"
+    "image": "/images/Revolved-Side-Angle-Pose.png"
   },
 
 
@@ -1289,7 +1289,7 @@
     "level": "Intermediate",
     "area": "upper",
     "type": "Digestion",
-    "image": "/image/Boat-Pose.png"
+    "image": "/images/Boat-Pose.png"
   },
   {
 
@@ -1298,7 +1298,7 @@
     "level": "Intermediate",
     "area": "lower",
     "type": "Digestion",
-    "image": "/image/Boat-Pose.png"
+    "image": "/images/Boat-Pose.png"
   },
   {
 
@@ -1307,7 +1307,7 @@
     "level": "Intermediate",
     "area": "core",
     "type": "Digestion",
-    "image": "/image/Boat-Pose.png"
+    "image": "/images/Boat-Pose.png"
   },
   {
 
@@ -1316,7 +1316,7 @@
     "level": "Intermediate",
     "area": "full",
     "type": "Digestion",
-    "image": "/image/Boat-Pose.png"
+    "image": "/images/Boat-Pose.png"
   },
 
   {
@@ -1326,7 +1326,7 @@
     "level": "Advanced",
     "area": "upper",
     "type": "Digestion",
-    "image": "/image/Peacock-Pose.png"
+    "image": "/images/Peacock-Pose.png"
   },
   {
 
@@ -1335,7 +1335,7 @@
     "level": "Advanced",
     "area": "lower",
     "type": "Digestion",
-    "image": "/image/Peacock-Pose.png"
+    "image": "/images/Peacock-Pose.png"
   },
   {
 
@@ -1344,7 +1344,7 @@
     "level": "Advanced",
     "area": "core",
     "type": "Digestion",
-    "image": "/image/Peacock-Pose.png"
+    "image": "/images/Peacock-Pose.png"
   },
   {
 
@@ -1353,7 +1353,7 @@
     "level": "Advanced",
     "area": "full",
     "type": "Digestion",
-    "image": "/image/Peacock-Pose.png"
+    "image": "/images/Peacock-Pose.png"
   },
   {
 
@@ -1362,7 +1362,7 @@
     "level": "Advanced",
     "area": "full",
     "type": "Balancing",
-    "image": "/image/Peacock-Pose.png"
+    "image": "/images/Peacock-Pose.png"
   },
   {
 
@@ -1371,7 +1371,7 @@
     "level": "Advanced",
     "area": "full",
     "type": "Strengthening",
-    "image": "/image/Peacock-Pose.png"
+    "image": "/images/Peacock-Pose.png"
   },
   {
 
@@ -1380,7 +1380,7 @@
     "level": "Advanced",
     "area": "full",
     "type": "Core Activating",
-    "image": "/image/Peacock-Pose.png"
+    "image": "/images/Peacock-Pose.png"
   },
   {
 
@@ -1389,7 +1389,7 @@
     "level": "Advanced",
     "area": "upper",
     "type": "Core Activating",
-    "image": "/image/Peacock-Pose.png"
+    "image": "/images/Peacock-Pose.png"
   },
   {
 
@@ -1398,7 +1398,7 @@
     "level": "Advanced",
     "area": "lower",
     "type": "Core Activating",
-    "image": "/image/Peacock-Pose.png"
+    "image": "/images/Peacock-Pose.png"
   },
   {
 
@@ -1407,7 +1407,7 @@
     "level": "Advanced",
     "area": "core",
     "type": "Core Activating",
-    "image": "/image/Peacock-Pose.png"
+    "image": "/images/Peacock-Pose.png"
   },
 
 
@@ -1418,7 +1418,7 @@
     "level": "Advanced",
     "area": "core",
     "type": "Stretching",
-    "image": "/image/Monkey-Pose.png"
+    "image": "/images/Monkey-Pose.png"
   },
   {
 
@@ -1427,7 +1427,7 @@
     "level": "Advanced",
     "area": "full",
     "type": "Stretching",
-    "image": "/image/Monkey-Pose.png"
+    "image": "/images/Monkey-Pose.png"
   },
   {
 
@@ -1436,7 +1436,7 @@
     "level": "Advanced",
     "area": "full",
     "type": "Seated",
-    "image": "/image/Monkey-Pose.png"
+    "image": "/images/Monkey-Pose.png"
   },
   {
 
@@ -1445,7 +1445,7 @@
     "level": "Advanced",
     "area": "core",
     "type": "Seated",
-    "image": "/image/Monkey-Pose.png"
+    "image": "/images/Monkey-Pose.png"
   },
   {
 
@@ -1454,18 +1454,7 @@
     "level": "Advanced",
     "area": "lower",
     "type": "Seated",
-    "image": "/image/Monkey-Pose.png"
-  },
-
-
-  {
-
-    "name": "",
-    "description": "",
-    "level": "",
-    "area": "",
-    "type": "",
-    "image": ""
+    "image": "/images/Monkey-Pose.png"
   }
 
 ]
