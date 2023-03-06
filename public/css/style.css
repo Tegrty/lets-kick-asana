@@ -87,6 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #kick-text {
   font-size: 30px;
+  font-family: 'Italiana', serif;
 }
 
 #asana-text {
@@ -99,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #seated-with-dog{
   height: 80vh;
-  background-image: url('/images/assets/seated-with-dog.jpeg');
+  background-image: url('/images/assets/seated-with-dog.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
