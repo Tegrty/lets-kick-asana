@@ -1,7 +1,7 @@
 {
   "particles": {
     "number": {
-      "value": 100,
+      "value": 90,
       "density": {
         "enable": true,
         "value_area": 800
@@ -36,7 +36,7 @@
       }
     },
     "size": {
-      "value": 3,
+      "value": 2,
       "random": true,
       "anim": {
         "enable": false,
@@ -72,11 +72,11 @@
     "events": {
       "onhover": {
         "enable": true,
-        "mode": "bubble"
+        "mode": "repulse"
       },
       "onclick": {
         "enable": true,
-        "mode": "repulse"
+        "mode": "push"
       },
       "resize": true
     },
@@ -95,7 +95,7 @@
         "speed": 3
       },
       "repulse": {
-        "distance": 400,
+        "distance": 111.8881118881119,
         "duration": 0.4
       },
       "push": {
